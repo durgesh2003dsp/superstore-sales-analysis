@@ -72,7 +72,7 @@ It includes:
 - Interactive filters
 
 You can add a screenshot named **dashboard.png** to display the preview here.
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/superstore-sales-analysis/main/superstore%20dashboard.PNG)
+![Dashboard Preview](https://github.com/durgesh2003dsp/superstore-sales-analysis/blob/main/superstore%20dashboard.PNG)
 
 
 ---
